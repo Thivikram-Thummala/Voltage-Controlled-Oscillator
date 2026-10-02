@@ -1,4 +1,4 @@
-# Voltage-Controlled-Oscillator-
+# Voltage-Controlled-Oscillator
 Designed a CMOS-based Voltage Controlled Oscillator (VCO) using a ring oscillator architecture. The oscillation frequency is controlled by varying the input voltage, which changes the propagation delay of CMOS inverter stages. The project analyzes frequency tuning, delay characteristics, and load capacitance effects through circuit simulations.
 # CMOS Voltage Controlled Oscillator (VCO)
 
